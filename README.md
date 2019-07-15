@@ -13,9 +13,9 @@ INSAID - term1 and term2 assignment
 
 ##  The dataset consists of the information about Summer Olympic Games. Various variables present in the dataset includes data of atheletes, sports, events, participatin countries etc.
 - The dataset comprises of 31165 observations of 9 columns. Below is a table showing names of all the columns and their description.
-+=====================================+
+---------------------------------------
 | Column Name | Description           |
-+=====================================+
+---------------------------------------
 | Year	      | Olympic Season Year   |
 | City	      | City where games held |
 | Sport	      | Sport category        |
@@ -25,5 +25,5 @@ INSAID - term1 and term2 assignment
 | Gender	    | Sex of Athlete        |
 | Event	      | Name of Event         |
 | Medal	      | Medals                |
-+=============+=======================+
+---------------------------------------
 
