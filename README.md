@@ -25,5 +25,5 @@ INSAID - term1 and term2 assignment
 | Gender	    | Sex of Athlete        |
 | Event	      | Name of Event         |
 | Medal	      | Medals                |
----------------------------------------
+
 
