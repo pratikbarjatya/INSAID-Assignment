@@ -3,11 +3,11 @@
 - Nonlinear Reconstruction of Genetic Networks Implicated in AML.[Aaron Goebel, Mihir Mongia .pdf](http://cs229.stanford.edu/proj2014/Aaron%20Goebel,%20Mihir%20Mongia%20,%20Nonlinear%20Reconstruction%20of%20Genetic%20Networks%20Implicated%20in%20AML.pdf)
 - Can Machines Learn Genres.[Aaron Kravitz, Eliza Lupone, Ryan Diaz.pdf](http://cs229.stanford.edu/proj2014/Aaron%20Kravitz,%20Eliza%20Lupone,%20Ryan%20Diaz,%20Can%20Machines%20Learn%20Genres.pdf)
 - Identifying Gender From Facial Features.[Abhimanyu Bannerjee, Asha Chigurupati.pdf](http://cs229.stanford.edu/proj2014/Abhimanyu%20Bannerjee,%20Asha%20Chigurupati,%20Identifying%20Gender%20From%20%20Facial%20Features.pdf)
-- Equation to LaTeX.Abhinav Rastogi, Sevy Harris.[pdf]
-- Intensity prediction using DYFI.Abhineet Gupta.[pdf]
-- Artificial Intelligence on the Final Frontier – Using Machine Learning to Find New Earths.Abraham Botros.[pdf]
-- Life Expectancy Post Thoracic Surgery.Adam Abdulhamid, Ivaylo Bahtchevanov, Peng Jia.[pdf]
-- Making Sense of the Mayhem- Machine Learning and March Madness.Adam Ginzberg, Alex Tran.[pdf]
+- Equation to LaTeX.[Abhinav Rastogi, Sevy Harris.pdf](http://cs229.stanford.edu/proj2014/Abhinav%20Rastogi,%20Sevi%20Harris,%20Equation%20to%20LaTeX.pdf)
+- Intensity prediction using DYFI.[Abhineet Gupta.pdf](http://cs229.stanford.edu/proj2014/Abhineet%20Gupta,%20Intensity%20prediction%20using%20DYFI.pdf)
+- Artificial Intelligence on the Final Frontier – Using Machine Learning to Find New Earths.[Abraham Botros.pdf](http://cs229.stanford.edu/proj2014/Abraham%20Botros,%20Artificial%20Intelligence%20on%20the%20Final%20Frontier%20-%20Using%20Machine%20Learning%20to%20Find%20New%20Earths.pdf)
+- Life Expectancy Post Thoracic Surgery.[Adam Abdulhamid, Ivaylo Bahtchevanov, Peng Jia.pdf](http://cs229.stanford.edu/proj2014/Adam%20Abdulhamid,%20Ivaylo%20Bahtchevanov,%20Peng%20Jia,Life%20Expectancy%20Post%20Thoracic%20Surgery.pdf)
+- Making Sense of the Mayhem- Machine Learning and March Madness.[Adam Ginzberg, Alex Tran.pdf](http://cs229.stanford.edu/proj2014/Adam%20Ginzberg,%20Alex%20Tran,%20Making%20Sense%20of%20the%20Mayhem-%20Machine%20Learning%20and%20March%20Madness.pdf)
 - Better Reading Levels through Machine Learning.AdamGall.[pdf]
 - What are People Saying about Net Neutrality.Adison Wongkar, Christoph Wertz.[pdf]
 - Bird Species Identification from an Image.Aditya Bhandari, Ameya Joshi, Rohit Patki.[pdf]
