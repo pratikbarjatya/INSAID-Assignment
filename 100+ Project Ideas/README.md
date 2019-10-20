@@ -1,6 +1,6 @@
 # Below is the List of Distinguished Final Year 100+ Machine Learning Projects Ideas or suggestions for ML Enthusiast you can complete any of them or expand them into longer projects if you enjoy them.
 
-- Nonlinear Reconstruction of Genetic Networks Implicated in AML.Aaron Goebel, Mihir Mongia .[pdf]
+- Nonlinear Reconstruction of Genetic Networks Implicated in AML.Aaron Goebel, Mihir Mongia .[pdf](http://cs229.stanford.edu/proj2014/Aaron%20Goebel,%20Mihir%20Mongia%20,%20Nonlinear%20Reconstruction%20of%20Genetic%20Networks%20Implicated%20in%20AML.pdf)
 - Can Machines Learn Genres.Aaron Kravitz, Eliza Lupone, Ryan Diaz.[pdf]
 - Identifying Gender From Facial Features.Abhimanyu Bannerjee, Asha Chigurupati.[pdf]
 - Equation to LaTeX.Abhinav Rastogi, Sevy Harris.[pdf]
