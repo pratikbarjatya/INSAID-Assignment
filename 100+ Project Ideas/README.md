@@ -1,8 +1,8 @@
 # Below is the List of Distinguished Final Year 100+ Machine Learning Projects Ideas or suggestions for ML Enthusiast you can complete any of them or expand them into longer projects if you enjoy them.
 
-- Nonlinear Reconstruction of Genetic Networks Implicated in AML.Aaron Goebel, Mihir Mongia .[pdf](http://cs229.stanford.edu/proj2014/Aaron%20Goebel,%20Mihir%20Mongia%20,%20Nonlinear%20Reconstruction%20of%20Genetic%20Networks%20Implicated%20in%20AML.pdf)
-- Can Machines Learn Genres.Aaron Kravitz, Eliza Lupone, Ryan Diaz.[pdf]
-- Identifying Gender From Facial Features.Abhimanyu Bannerjee, Asha Chigurupati.[pdf]
+- Nonlinear Reconstruction of Genetic Networks Implicated in AML.[Aaron Goebel, Mihir Mongia .pdf](http://cs229.stanford.edu/proj2014/Aaron%20Goebel,%20Mihir%20Mongia%20,%20Nonlinear%20Reconstruction%20of%20Genetic%20Networks%20Implicated%20in%20AML.pdf)
+- Can Machines Learn Genres.[Aaron Kravitz, Eliza Lupone, Ryan Diaz.pdf](http://cs229.stanford.edu/proj2014/Aaron%20Kravitz,%20Eliza%20Lupone,%20Ryan%20Diaz,%20Can%20Machines%20Learn%20Genres.pdf)
+- Identifying Gender From Facial Features.[Abhimanyu Bannerjee, Asha Chigurupati.pdf](http://cs229.stanford.edu/proj2014/Abhimanyu%20Bannerjee,%20Asha%20Chigurupati,%20Identifying%20Gender%20From%20%20Facial%20Features.pdf)
 - Equation to LaTeX.Abhinav Rastogi, Sevy Harris.[pdf]
 - Intensity prediction using DYFI.Abhineet Gupta.[pdf]
 - Artificial Intelligence on the Final Frontier – Using Machine Learning to Find New Earths.Abraham Botros.[pdf]
