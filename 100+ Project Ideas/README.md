@@ -324,7 +324,7 @@
 - Appliance Based Model for Energy Consumption Segmentation.Zi Yin, Thanchanok Teeraratkul, Nutthavuth Tamang.[pdf]
 - analysis on 1s1r array.Zizhen Jiang.[pdf]
 
-## Vedio Series
+## Video Series
 https://www.youtube.com/watch?v=p4FR37aJSKc
 https://www.youtube.com/watch?v=5B80x26K8cQ
 https://www.youtube.com/watch?v=86lUBfVMe24
@@ -348,7 +348,7 @@ https://www.youtube.com/watch?v=N3BJDnDNuVU
 https://www.youtube.com/watch?v=4e3NvB0nc2M
 https://www.youtube.com/watch?v=lTPO8rrzrac
 
-Few More Project Ideas or Suggestions which might interest you.
+## Few More Project Ideas or Suggestions which might interest you.
 1. AI (Artifical Intelligence) Based Image Capturing and transferring to PC/CCTV using Robot
 2. Material Dimensions Analyzing Robot
 3. An intelligent mobile robot navigation technique using RFID Technology
