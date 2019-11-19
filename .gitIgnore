@@ -1,0 +1,5 @@
+.DS_Store
+.idea/
+.ipynb_checkpoints/
+EDA/.ipynb_checkpoints/
+ML/.ipynb_checkpoints/.DS_Store
