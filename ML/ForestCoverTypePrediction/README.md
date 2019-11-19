@@ -28,11 +28,13 @@ Soil_Type (40 binary columns, 0 = absence or 1 = presence) - Soil Type designati
 Cover_Type (7 types, integers 1 to 7) - Forest Cover Type designation
 
 ## CONCLUSION
-
 Accuracy with SupportVectorClassifier 0.7984457671957672
 Accuracy with ExtraTreesClassifier 0.8022486772486772
 Accuracy with RandomForestClassifier 0.8492972717609543
 
 ## FUTURE SCOPE
-
 PCA - SVM classifier would perform better with compression techniques like PCA
+
+## Walkthrough 
+https://drive.google.com/open?id=1X2w83-wGpurn4tg2K-waxwadszHNtGvB
+
