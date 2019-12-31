@@ -1,7 +1,10 @@
-# INSAID
-INSAID GCDAI Course assignments and practice samples.
+# [INSAID](https://www.insaid.co)
+![](https://www.insaid.co/wp-content/uploads/2019/09/logo2x.png)
 
-## The contains various notebooks that explores
-- The basic use of Pandas, Numpy, Matplotlib, Seaborn, Scikit-Learn
-- Covers the basic commands of Exploratory Data Analysis(EDA) which includes cleaning, munging, combining, reshaping, slicing, dicing, and transforming data for analysis purpose 
-- Various ML ALgorithms like Linear Regression, Logistic Regression, Decision Trees, Random Forests, KNN, K-means, etc over openly available practice datasets. 
+This repository contains INSAID GCDAI curriculum assignments and practice samples.
+
+###  The repository contains various notebooks that explores
+- The basics of Data Analysis and Data Visualisation with use of Pandas, Numpy, Matplotlib, Seaborn,etc libraries.
+- Covers the Exploratory Data Analysis (EDA) which includes cleaning, munging, combining, reshaping, slicing, dicing, and transforming data for analytics.
+- Various ML ALgorithms like Linear Regression, Logistic Regression, Decision Trees, Random Forests, KNN, K-means, etc over openly available practice datasets.
+
