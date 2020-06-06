@@ -8,7 +8,7 @@ This repository contains [INSAID GCDAI](https://www.insaid.co/global-certificate
 - The basics of **Data Analysis** and **Data Visualisation** with use of `Pandas`, `Numpy`, `Matplotlib`, `Seaborn`, etc libraries.
  ![](https://github.com/pratikbarjatya/INSAID-Assignment/blob/master/Images/LibImg.png)
 - Covers the **Exploratory Data Analysis (EDA)** ![](https://www.mrdbourke.com/content/images/size/w2000/2019/09/an-EDA-lifecycle.png)  
-[EDA](https://github.com/pratikbarjatya/INSAID-Assignment/blob/master/Images/EDA.png)
+![EDA](https://github.com/pratikbarjatya/INSAID-Assignment/blob/master/Images/EDA.png)
 
 ## EDAProject
 
